@@ -7,3 +7,6 @@ management:
     web:
       exposure:
         include: '*'
+hello:
+  there: Hey mayur wass up?
+  
